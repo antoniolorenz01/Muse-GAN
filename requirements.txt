@@ -1,0 +1,23 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Music Processing
+music21>=9.1.0
+midi2audio>=0.1.1
+
+# Numerical Computing
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Jupyter
+jupyter>=1.0.0
+ipython>=8.12.0
+
+# Audio Processing
+fluidsynth>=0.2
+
+# Utilities
+tqdm>=4.65.0
